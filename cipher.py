@@ -8,7 +8,7 @@ ef duplicate(plaintext: str) -> str:
     """
     # TODO
     pass
-
+gjxffhfgdf
 
 def intersection(a: str, b: str) -> str:
     """
