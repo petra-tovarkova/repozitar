@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 
-def duplicate(plaintext: str) -> str:
+ef duplicate(plaintext: str) -> str:
     """
     Duplicate chars in 'plaintext':
     duplicate('hello') -> 'hheelloo'
